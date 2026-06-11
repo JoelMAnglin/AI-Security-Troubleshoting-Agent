@@ -443,39 +443,6 @@ Planned improvements:
 * Zscaler API Integration
 * AI-Assisted Root Cause Analysis
 * PDF Report Generation
-
----
-
-# STAR Interview Summary
-
-### Situation
-
-Security teams spend significant time troubleshooting DNS, TLS, certificate, proxy, and application access issues.
-
-### Task
-
-Create a repeatable framework that standardizes diagnostics and reduces manual effort.
-
-### Action
-
-Built a PowerShell-based troubleshooting platform that automates DNS validation, connectivity testing, TLS certificate analysis, certificate authority validation, and report generation.
-
-### Result
-
-Created a reusable Security Engineering workflow that improves troubleshooting consistency, documentation quality, and operational efficiency.
-
----
-
-# Resume Bullet
-
-Built a PowerShell-based Security Engineering Troubleshooting Agent to automate DNS, TCP connectivity, TLS certificate, PKI, and proxy diagnostics, generating incident-style reports with likely root cause analysis and remediation guidance.
-
----
-
-# LinkedIn Project Description
-
-Developed a PowerShell-based Security Engineering Troubleshooting Agent to automate DNS, network connectivity, TLS certificate, PKI, and proxy diagnostics. The tool validates certificate trust relationships, identifies potential root causes, and generates incident-style reports with remediation guidance.
-
 ---
 
 # Disclaimer
